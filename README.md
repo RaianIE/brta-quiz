@@ -3,7 +3,7 @@
 
 A free, offline-friendly quiz and study tool covering all **118 official traffic signs** from the Bangladesh Road Transport Authority (BRTA) chart — built for anyone preparing for the BRTA driving license exam.
 
-**🔗 Live site: [REPLACE_WITH_YOUR_PAGES_URL](REPLACE_WITH_YOUR_PAGES_URL)**
+**🔗 Live site: [BRTA Quiz](https://raianie.github.io/brta-quiz/)**
 
 ![quiz screenshot placeholder](screenshot.png)
 
@@ -20,7 +20,7 @@ The official BRTA sign chart is a static image/PDF — fine for printing, hard t
 
 ## Usage
 
-Just open the [live site](REPLACE_WITH_YOUR_PAGES_URL), or download `index.html` from this repo and open it in any browser — no server required.
+Just open the [live site](https://raianie.github.io/brta-quiz/), or download `index.html` from this repo and open it in any browser — no server required.
 
 ## Tech
 
